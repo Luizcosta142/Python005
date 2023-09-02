@@ -1,1 +1,0 @@
-A primeira parte da Fase 01 da Pós tech ensina sobre Análise exploratória de dados, mas especificamente, a primeira aula trata de uma análise inicial dos dados, funções do pandas como "read_csv", "head", "tail", etc.
