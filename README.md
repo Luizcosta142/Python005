@@ -15,4 +15,4 @@ Aula 4 - Análise de gráficos e criação de hipóteses
 Aula 5 - Manipulação e interpretação de gráficos
 
 A PósTech é composta por 5 fases, toda fase terá um Tech Challenge valendo nota. Todos os Tech Challenges será postados aqui
-no repositóri #
+no repositório a ser criado ainda.
